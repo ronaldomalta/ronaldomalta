@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldomalta&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldomalta" /> </p>
 
-- 🔭 I’m currently working on **college**
+- 🔭 I’m currently working on **EJ Unicap**
 
 - 🌱 I’m currently learning **C/C++, python,frontend, JavaScript**
 
