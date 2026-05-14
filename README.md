@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,github,docker,linux" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,github" height="60" />
 </div>
 
 ###
@@ -42,8 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+  
 
 ###
 
